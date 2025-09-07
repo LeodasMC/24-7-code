@@ -9,7 +9,7 @@ def display_banner():
     print(r"""
 
                                                        
-                              Jishnu
+                              Leodas
     """)
 
 def generate_random_string(length=100):
